@@ -1,6 +1,6 @@
 # Media Manager (media-manager)
 
-A software to view and manage media on locally on device
+A software to view and manage media locally on device
 
 ## Install the dependencies
 ```bash

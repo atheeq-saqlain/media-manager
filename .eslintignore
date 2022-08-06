@@ -1,0 +1,7 @@
+/dist
+/src-capacitor
+/src-cordova
+/src-electron
+/.quasar
+/node_modules
+.eslintrc.js
